@@ -102,6 +102,7 @@ a:hover{
 }
 p{
   line-height: 2;
+  align=”justify”;
 }
 
 hr{
